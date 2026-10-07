@@ -5,6 +5,8 @@ This API provides functionality to manage books with CRUD operations.
 
 RENDER LINK : - https://bookstore-api-in-node-js.onrender.com
 
+Video Link: - https://drive.google.com/file/d/1q_YTfS4sdGeFK22CxaW8wEyiQxNyTzyp/view?usp=sharing
+
 
 <img width="1907" height="1018" alt="Screenshot 2026-10-07 141925" src="https://github.com/user-attachments/assets/8a9011e0-c659-4dd3-aeb0-0d9cf80b3db9" />
 <img width="1920" height="1080" alt="Screenshot (5)" src="https://github.com/user-attachments/assets/c6710298-0b58-4e07-bd10-256e8320c58f" />
